@@ -18,3 +18,4 @@ python parser.py --tg_history_path /path/to/history/file.json --output_path /pat
 1. raw.csv - файл с неочищенными данными
 2. train.jsonl и test.jsonl - данные готовые для дальнейшей обработки
 ```
+P.S добавлен фильтр контента и сортировка диалога 
